@@ -9,12 +9,14 @@
 ### <p align="center">🎈 Aftermath 🎈</p>
 
 <br><br>
+<p> Ich hab das Programm nur übersetzt und übernehme keine Verantwortung für das direkte Programm! </p>
+<p> Bei Fragen den Programmersteller https://github.com/billythegoat356 fragen! </p>
 <p align="center">
-  <strong>Aftermath is an anti token grabber written in Python3.</strong>
+  <strong>Aftermath ist ein in Python3 geschriebener Anti-Token-Grabber.</strong>
   <br>
-  <strong>This tool with a GUI setup is checking the Downloads folder to search for token grabbers,</strong>
+  <strong>Dieses Tool mit einem GUI-Setup überprüft den Download-Ordner, um nach Token-Grabbern zu suchen,</strong>
   <br>
-  <strong>deletes the webhooks, and send the logs to your discord webhook.</strong>
+  <strong>löscht die Webhooks und sendet die Protokolle an Ihren Discord-Webhook.</strong>
 </p>
 <br>
 
@@ -23,11 +25,11 @@
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ Fast</strong>
+<strong>+ Schnell</strong>
 <br>
-<strong>+ Has logs</strong>
+<strong>+ Besitzt Logs via Discord Webhooks</strong>
 <br>
-<strong>+ Doesn't affect your pc performance</strong>
+<strong>+ Beeinträchtigt die Leistung Ihres PCs nicht</strong>
 <br>
 
 <p align="right">
@@ -35,22 +37,22 @@
 </p>
 
 <br>
-<strong>- Max files size is 10mb</strong>
+<strong>- Maximale Dateigröße ist 10mb</strong>
 <br>
-<strong>- Finds only discord webhooks</strong>
+<strong>- Findet nur Discord-Webhooks</strong>
 <br>
-<strong>- Doesn't support executable and obfuscated files</strong>
+<strong>- Unterstützt keine ausführbaren und verdeckten (Obfuscated) Dateien</strong>
 <br><br>
 
 -----
 
-### <p align="center">💡 Ideas 💡</p>
+### <p align="center">💡 Ideen 💡</p>
 
-<p align="center"><strong>Feel free to make a pull request on this repository to submit any idea!</strong</p>
+<p align="center"><strong>Fühlen Sie sich frei, einen Pull-Request für dieses Repository zu stellen, um eine Idee einzureichen!</strong</p>
 
 <br><br>
-* When you uninstall it (in the setup), it closes it in the task manager (if it is active)
-* Uncompile executable files, and try to unobfuscate obfuscated files
+* Wenn Sie das Programm deinstallieren (im Setup), wird es im Task-Manager geschlossen (falls er aktiv ist).
+* Unkompiliert ausführbare Dateien und versucht, obfuskierte Dateien zu entschlüsseln
 <br><br>
 
 -----
@@ -58,8 +60,8 @@
 ### <p align="center">📌 Disclaimer 📌</p>
 
 <br><br>
-* ***Please use this program only for educational purposes.***
-* ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
+* Bitte verwenden Sie dieses Programm nur zu Bildungszwecken.
+* Es ist nicht für böswillige Zwecke gedacht, und ich übernehme keine Verantwortung für das, was Sie damit anstellen.
 <br><br>
 
 -----
